@@ -2,9 +2,10 @@
 
 ### Done:
  * Homework 01
+ * Homework 02
 
 ### Pending:
- * Homework 02-07
+ * Homework 03-07
   
 * * *
 ### Link zum Kurs:  

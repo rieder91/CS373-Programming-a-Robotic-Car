@@ -1,11 +1,14 @@
 # Programming a Robotic Car CS373
 
 ### Done:
- * Homework 01
- * Homework 02
+ * Localization:
+ 	* Homework 01 - Histogramm Filters
+ 	* Homework 02 - Kalman Filters
+ 	* Homework 03 - Particle Filters
 
 ### Pending:
- * Homework 03-07
+ * Homework 04 - A* Search and Planning
+ * Homework 05 - 07
   
 * * *
 ### Link zum Kurs:  

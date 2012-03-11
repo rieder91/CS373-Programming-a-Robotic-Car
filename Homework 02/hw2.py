@@ -139,7 +139,7 @@ class matrix:
 
 def filter(x, P):
     for n in range(len(measurements)):
-        
+        # equations are from the definition of the kalman filter itself
         # prediction
         x = (F * x) + u
         P = F * P * F.transpose()

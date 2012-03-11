@@ -1,3 +1,7 @@
+# complete particle filter
+# Thomas Rieder
+#
+
 # --------------
 # USER INSTRUCTIONS
 #

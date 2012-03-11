@@ -1,3 +1,8 @@
+# Histogramm based localization in a 2d world (like colored flatland)
+# Thomas Rieder
+#
+
+
 colors = [['red', 'green', 'green', 'red' , 'red'],
           ['red', 'red', 'green', 'red', 'red'],
           ['red', 'red', 'green', 'green', 'red'],

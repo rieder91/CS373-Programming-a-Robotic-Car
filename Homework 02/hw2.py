@@ -1,3 +1,7 @@
+# 4 dimensional kalman filter
+# Thomas Rieder
+#
+
 # Fill in the matrices P, F, H, R and I at the bottom
 
 from math import *

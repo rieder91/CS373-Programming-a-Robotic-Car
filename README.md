@@ -8,11 +8,12 @@ _by Thomas Rieder_
  	* Homework 03 - Particle Filters
  * Planning:
     * Homework 04 - A*-Search and Dynamic Programming
+ * Control:
+    * Homework 05 - Smoothing and PID-Control
 
 ### Pending:
- * Homework 05 - PID controller
- * Homework 06 - Putting it all together
+ * Homework 06 - SLAM Simultaneous Localization and Mapping
   
 * * *
-### Link zum Kurs:  
+### Udacity Class:  
 [Udacity CS373 Programming a Robotic Car 2012](http://www.udacity.com/overview/Course/cs373/CourseRev/feb2012 "Udacity Class")

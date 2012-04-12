@@ -12,9 +12,12 @@ _by Thomas Rieder_
     * Homework 05 - Smoothing and PID-Control
  * SLAM
     * Homework 06 - Online Graph SLAM
+ * Final Exam
+    * Programming Exercise done with Dynamic Programming
+	* Bonus: Answers for Questions 1 through 19 (PDF)
 
 ### Pending:
- * Final Exam
+ * Nothing! :-)
   
 * * *
 ### Udacity Class:  

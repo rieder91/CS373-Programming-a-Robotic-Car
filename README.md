@@ -10,9 +10,11 @@ _by Thomas Rieder_
     * Homework 04 - A*-Search and Dynamic Programming
  * Control:
     * Homework 05 - Smoothing and PID-Control
+ * SLAM
+    * Homework 06 - Online Graph SLAM
 
 ### Pending:
- * Homework 06 - SLAM Simultaneous Localization and Mapping
+ * Final Exam
   
 * * *
 ### Udacity Class:  
